@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Roboto:wght@100&display=swap');
+body {
+/* CSS code goes here */
+background-color:#C3CAD5;
+/* font-family: 'Monoton', cursive; */
+font-family: 'Roboto', sans-serif;
+font-size: 18pt;
+letter-spacing: 5px;
+color: white;
+
+
+};
+h1{
+    font-family: 'Monoton', cursive;
+    font-size: 25pt;
+    letter-spacing:4px;
+    color: white;
+    padding: 5px;
+    margin: auto;
+    width: 35%;
+    border: 5px solid white;
+ };
+ 
+
+  p{
+    width:60%;
+    margin:0 auto;
+  };
+
+  img {
+    display:block;
+    width: 100px;
+    margin: 0 auto;
+  };
